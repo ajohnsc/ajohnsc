@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Enterprise Architecture (TOGAF)**
 
-- 📝 I regularly write articles on [opensource.com/users/ajscanlas](opensource.com/users/ajscanlas)
+- 📝 I regularly write articles on [opensource.com](https://opensource.com/users/ajscanlas)
 
 - 💬 Ask me about **Cloud Computing**
 
