@@ -15,6 +15,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Deploy Ceph in a Raspberry Pi cluster](https://opensource.com/article/21/1/ceph-raspberry-pi)
+- [Set up OpenStack on a Raspberry Pi cluster](https://opensource.com/article/20/12/openstack-raspberry-pi)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
